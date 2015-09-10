@@ -1,3 +1,3 @@
 Yesterday we had created a new directory that worked with Github all this will the commandline. 
 
-Everytime I create a new journal entry I will use pico to create a new txt file and use git add (file name here) and then git commit.
+Everytime I create a new journal entry I will use pico to create a new txt file and use git add (file name here) and then git commit then git push -u origin master.

@@ -1,0 +1,40 @@
+Begin:
+	Do 3 Times
+		Turn Left 90 degrees 
+		Draw Forward
+ 
+Forward 2
+	Do 4 Times
+		Turn Left 90 degrees 
+		Draw Forward
+
+
+Forward 2
+	Do 1 Times
+		Turn Left 90 degrees 
+		Draw Forward
+		Turn Right 180 degrees
+		Draw Forward
+
+	
+	Do 4 Times 
+		Turn Left 90 degrees 
+		Draw Forward	
+
+
+	Do 1 Times 
+		Draw Forward
+
+
+Forward 2 
+	Do 1 Times 
+		Turn Left 135 degrees
+		Draw Forward
+		Turn Right 180 degrees
+		Draw Forward 
+		Turn Right 90 degrees 
+		Draw Forward 
+		Turn Rigth 180 degrees  
+		Draw Forward
+		Draw Forward
+End

@@ -1,0 +1,3 @@
+Psuedocode is good for creating simple creations (things akin to drawing lines).
+
+We will use it for entertainment and to get a good grade and to draw names. 

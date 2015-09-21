@@ -1,0 +1,5 @@
+I have recieved credit for all my journals excluding the two journals i forgot to push and commit to github so i didnt get a grade on them and the one i actually forgot to do at all.  
+
+Its important to use name convetion because if we dont mr Davis wouldnt know who submitted what and from which period. 
+
+You can copy a directory to a certain place with the cp command.

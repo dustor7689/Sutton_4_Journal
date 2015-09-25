@@ -1,0 +1,12 @@
+Definitions:
+
+Paid Licencse- having to pay to have the right to use a software.
+Shareware- Software that has been legally shared.
+Trailware- A temporary right to use a software  
+Ad-ware- The downloading or pop-ups of ads
+Crippleware- Software given that has reduced functionality with the thought of attracting money for the full product.
+Freemium- Free base product with addons that cost money.
+Freeware (vs Free-OpenSource)- Free-OpenSource is free and editable while freeware is just free software.
+Richard Stallman- He is a free software deeloper.
+Lawrence Lessig- Politician and lawyer supported free software.
+Eben Moglen- Professor of law and supporter of free software.

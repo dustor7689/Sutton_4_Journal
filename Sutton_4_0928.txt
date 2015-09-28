@@ -1,0 +1,5 @@
+You can count in java by creating a forloop that adds +1 from a certain place.
+
+You can check if the number is divisible by creating a statement that divises whatever number you wish and adding a "%".
+
+You can track a number by putting a print.ln with the statement being attacthed to this with the requirement of having a divisor.

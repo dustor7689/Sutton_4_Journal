@@ -1,0 +1,1 @@
+Methods are how the code acts ad they are good for large scale operations.

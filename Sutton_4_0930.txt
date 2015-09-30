@@ -1,0 +1,1 @@
+Methods can be used to find prime numbers and can also be used o pick out specefic aspects

@@ -1,0 +1,1 @@
+Code comments are words typed in that do not effect the code. They are good for telling yourself and others what the code does.

@@ -1,0 +1,4 @@
+Methods are statements tha when their requirements are met they activate and completes a predestined order.
+Classes are blue prints/templates.
+Instances are the instance of a prgram for example the snippet of code.
+Class methods are just methods but are singled out from the rest of the code.

@@ -1,0 +1,9 @@
+My plan for my art project is to create a bunch of triangles or just wing it. Whatever catches my mind's eye the most.
+
+I will probably try my hand at gc polygons and other methods similar to it.
+
+I will incorporate a for loop by looping triangles.
+
+I will create if, else if, and else statements aboutmy trianlges. 
+
+I will try my best to not do as much mah as humanly possible.

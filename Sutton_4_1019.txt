@@ -1,0 +1,9 @@
+I am almost done with my art project. I am almost done because i simply must add a few strokes to the background and maybe a few extra to help resemble wood. 
+
+When we were going over art methods i was considering making a bunch of triangles but then i decided not to because the idea went dry and negative in my mind after a bit of time passed so i went with making art of a wooden floor.
+
+yes i noticed because my neighbors told me of it.
+
+I have examined the sample code on github to better structure my own code in a similar way of the sample.
+
+gc.fillRect(0, 12, 700, 688); <----- As seen in my code...  

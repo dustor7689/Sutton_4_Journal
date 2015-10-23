@@ -15,7 +15,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.ArcType;
 import javafx.stage.Stage;
-public class Sutton_4_JavaFXintro extends Application{
+public class Sutton_4_MethodsMadness extends Application{
 
     
     public static void main(String[] args) {

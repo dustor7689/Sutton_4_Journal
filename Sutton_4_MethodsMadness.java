@@ -28,12 +28,12 @@ public class Sutton_4_MethodsMadness extends Application{
         Canvas canvas = new Canvas(700, 700);
         GraphicsContext gc = canvas.getGraphicsContext2D();
         drawShapes(gc);
-        drawJim(gc);
+        drawText(gc);
         root.getChildren().add(canvas);
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
     }
-    private void drawJim(GraphicsContext gc){
+    private void drawText(GraphicsContext gc){
         gc.setFill(Color.BISQUE);
         gc.fillText("Wooden Floor", 150, 150);
     }

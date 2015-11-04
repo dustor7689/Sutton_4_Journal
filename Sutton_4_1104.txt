@@ -1,0 +1,7 @@
+Method are a way to start a  series of code. 
+
+I used methods like public static void, while statements, if statements, and else if statements. I used them by taking advantage of their ability to correctly and effectively allowing me to organize and use my code to the best of my ability 
+
+A while loop is a looping code that will loop till the requirements are met fully.
+
+I used the while loop to keep the counter counting and the game running, booleans are used in my programming to say yes or no bassically it is either fitting of the requirements to allow the code attached to the boolean to run, and my counter was used within my code to keep count and to keep the game running till the counter hits zero.

@@ -63,5 +63,4 @@ public class Sutton_4_MethodsMadness extends Application{
         gc.strokeLine(0,10, 700, 10);
          
         }
-    }
-
+}

@@ -1,0 +1,3 @@
+Within my game I will use methods like static void repeat that will serve the purpose of act as the you lose prompt.
+
+I will pass it the value os symstem.out.println.

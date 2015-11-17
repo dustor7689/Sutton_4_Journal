@@ -1,0 +1,5 @@
+In my game I will track the challenges by placing letters from the last area in the area that the player has entered.
+
+I am still working upon the HP aspect of the game.
+
+The items will be managed within a public static void.

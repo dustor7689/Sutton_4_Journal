@@ -1,0 +1,9 @@
+Strings are commands that carry on through out the rest of the program.
+
+Strings are good for things akin to static actions.
+
+Ex: static String example;     
+public static void example(String[] args){}
+
+
+We can identify string methods by seeing if the strand of code is unchangable and can be used throughout the program.

@@ -1,0 +1,73 @@
+digraph simple_map{
+
+A [label="Start?"]
+AB [label="yes"]
+AC [label="no"]
+B [label="Awake in forest"] 
+C [label="Sleep"]
+D [label="Exlore"]
+E [label="Sleep end"]
+F [label="Reached the road"]
+G [label="Left"]
+H [label="Right"]
+I [label="Reached sword cave"]
+J [label="Reached armorer's home"]
+K [label="Take sword"]
+L [label="Enter the home"]
+LS [label="dont enter the home"]
+M [label="Take the shield"]
+N [label="Don't take shield"]
+O [label="No shield end"]
+P [label="Reached the corridor (with the sword)"]
+Q [label="Reached the corridor (with the shield)"]
+R [label="Forward"]
+S [label="Reached the crushing wall"]
+T [label="Get crushed"]
+U [label="dont get crushed"]
+V [label="A wild door appears"]
+W [label="Open the door"]
+WY [label="Don't open the door"]
+WX [label="The crushing wall turned back on"]
+X [label="Awake in your house"]
+Y [label="You win"]
+Z [label="Restart?"]
+GC [label="Crushed ending"]
+
+A->AB [label="commands", fontcolor=darkgreen ]
+A -> AC
+AC -> A
+AB -> B
+B -> C
+C -> E
+B -> D
+D -> F
+F -> G
+F -> H
+G -> I
+H -> J
+I -> K
+J -> L
+J -> LS
+LS -> O
+K -> P
+L -> M
+L -> N
+N -> O
+M -> Q
+P -> R
+Q -> R
+R -> S
+S -> T
+T -> GC
+S -> U
+U -> V
+V -> W
+V -> WY
+WY -> WX
+WX -> GC
+W -> X
+X -> Y
+Y -> Z
+
+
+}

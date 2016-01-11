@@ -1,0 +1,3 @@
+My slick game will be a skeleton making his way through a maze of furniture.
+
+My major challenge that I am currently facing is the challenge of getting the game to actually run at all.

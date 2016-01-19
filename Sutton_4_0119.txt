@@ -1,0 +1,7 @@
+My slick game is not complete but if it was my game would be one in which the player must find the exit to the maze whilst not obtaining death via enemys.
+
+I solved the challenge of getting the game to start at all.
+
+I am nearly finished with my spritesheet and map. This is mostly due to the tomfoolery that was the problems with starting the game.
+
+I was not able to meet the timeline because of the setback that was the game not starting . I should have dedicated more time during my free time but I decided to spend it reading up on my world history and studying for math and biology instead.

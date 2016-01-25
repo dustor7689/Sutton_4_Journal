@@ -1,0 +1,3 @@
+If I had just been willing to spend more time after school on my game I would not be in this position right now (incomplete game). I was unwilling to stay after school for the sake of my game forsaking it due to my blatant lazyness.
+
+My problem solving steps include reading the error messsage(s), interacting with the tooltips/netbeans suggestions and fiddling with my code to see if it fixes the error(s), asking my peers for assistance with the problem(s), and then pestering ms davis for assistance.

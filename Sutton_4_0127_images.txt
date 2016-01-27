@@ -1,0 +1,4 @@
+You add images to a slick game by acquiring a photo then applying it to your code making sure to attatch said image to your sought out code (menu, item(s), and more)
+
+The image is drawn wherever your code determines where the code will be dropped.
+

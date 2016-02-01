@@ -1,0 +1,6 @@
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException {
+
+This code renders GameContainer gc StateBasedGame and Graphics and then "throws" SlickException.
+
+It is a method because rendering is categorized as a method.

@@ -1,0 +1,1 @@
+In order to make my code more of my own and more legible I will change the naming of certain aspects of the code and order the code in the format I see fit.

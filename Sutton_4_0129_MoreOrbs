@@ -1,0 +1,7 @@
+A class constructor is the paramiters that the class takes.
+
+For orbs the class constructor should include public or pirvate with/without static status depending upon the class' pupose within the code.
+
+The orbs should have methods akin to image, a hitbox, shape, and more.
+
+

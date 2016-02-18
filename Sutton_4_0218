@@ -1,0 +1,11 @@
+The example code is giving the ogre sprite animations for moving up, down, left, right, and idle.
+
+It would be unrealistic / unproductive to memorize slick syntax because there is just too much to memorize efficiently when you can simply reember to use the shortcuts within java to assist the user in coding.
+
+An array is used for object management.
+
+You can make an array by typing on the keyboard ex: 
+    public ArrayList<Item> stuff = new ArrayList();
+An ArrayList is a array that extends beyond just one use of the array.
+
+An array is for singlular uses while arraylist extends to a much more numerus uses.

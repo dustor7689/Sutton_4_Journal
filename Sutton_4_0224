@@ -1,0 +1,15 @@
+A class Rat is a class named "Rat"
+
+public class Rat{
+plague = new Plague((int) rodent.x, (int) player.y);
+}
+
+I declare and initialize the code at the opening of the code.
+
+public Tar{
+rodent.create tooth(16, 25);
+rodent.create plague(87, 14);
+rodent.create nail(10, 20);
+rodent.create paw(0, 10);
+todent.create tail(20, 10);
+}

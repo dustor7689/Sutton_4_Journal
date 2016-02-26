@@ -1,0 +1,5 @@
+The code will draw x's.
+
+You could make it prinx a x by placing the value of the drawing into diagonal positions of each other value.
+
+You could make this into a 5 in a row game by making the player's key strokes to activate a related point on the drawing and to keep doing so according to forementioned keystroke until a 5 in a row is completed. 

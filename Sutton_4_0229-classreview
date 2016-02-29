@@ -1,0 +1,41 @@
+1. How do we make a class? What code comes at the beginning?
+We make a class by typing in public class Blank{   } or just class Blank{    }. The code that comes before this are all import(s) and package.
+
+2. Donut Bismarck = new Donut();
+is this a class constructor?
+No, this creates an object not a class-but it calls on the class constructor calling it class "Donut", with Donut();.
+
+3. How do we make a class with values and a class constructor?
+public class Cake{
+	string icing;
+	boolean isEaten;
+	int layers;
+	boolean hasCandles;
+	int candles;
+
+	public Cake(String a, int b){
+		This.icing = a;
+		This.isEaten = false;
+		This.layers = b;		
+	}
+//a getter gets, i.e., a getter will return a value from a object, e.g., 
+	public boolean getisEaten();{
+	return this.isEaten;
+}
+//a setter set the variable vlue for the instance,
+public void setisEaten(boolean b){
+this.isEaten = b;
+} 
+}
+4. Explain in your own words - what is a getter? what does it do?
+Cake Josh = new Cake("yellow",3);
+Josh.setisEaten();
+5. What is a setter? what does it do? Give an example.
+Josh.setisEaten(true);
+
+
+6. What is in An array of Breakfast? How would you create one?
+int[] coolnumberz; //this is an array of ints
+String[] beFast; // this is an array of strings
+boolean[] [] blocked; //this is a 2D array of booleans
+Breakfast[] reyesFamilyBreakfasts;

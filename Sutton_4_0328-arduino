@@ -1,0 +1,14 @@
+Between C programming and arduino I have noticed that arduino appears to be more simple, less bulky, while the forloops appear to be the same. 
+Arduino can complete tasks such as flickering the light(s) with a mere 2-4 lines of code in total with code that easily stands for the purpose it serves. 
+Arudino is similar in that they both have similar forms with forloops.
+
+Me and my parnter have adapted the code by changing the delays with the LED lights changing how fast the lights flicker.
+
+A circuit requires a path for electricity to flow completely through it in a circle.
+
+In Arduino programs are compiled via Arduino IDE by the typing of code, then the compile, thusly it is uploaded to the red board for it's use.
+
+Last week has been a interesting week for me. I have learned quiet a bit from my peers and my teacher.
+I have learned how to set up a bread board and a red board, how touse Arduino, and what exactly is a circuit. Yes the last week in specefic was very much interesting for me.
+
+I would like my project to be something along the lines of "x" input produces "y" sound however the "x" input has to be super specefic like holding it in a special way to produce the "y" sound.   

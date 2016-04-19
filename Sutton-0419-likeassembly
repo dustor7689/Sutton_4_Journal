@@ -1,0 +1,4 @@
+Assembly and Human Resource Machine are similare in that they both function by using simple commands in length to complete tasks such as placing "x" in "Y" while excluding "Z". Both use such commands as "Jump if "X" is seen" which is essiental to the goal of placing "X" in "Y" without "Z". However due to the simplicity of the code it requires a great effort to organize and use the code to complete this code as the commands are rather elementary in comparision to code languages such as python. 
+
+Assembly and Human Resource Machine are different is that Assembly serves more perpose than that of box sorting as in it can execute more complicated commands whilst HRM serves only to move "X" to "Y" while ignoring "Z".
+

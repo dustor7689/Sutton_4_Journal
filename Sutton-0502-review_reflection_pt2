@@ -1,0 +1,41 @@
+An array is container object which holds a certain number of values of a single type. 
+How does one make a simple array of Strings?
+One must declare that you are creating an array of strings and then list the strings that you wish to be a part of the array.
+What is the syntax for a 2-D array?
+    static void onewordalllowercase(){
+            char[][] board = new char[10][10]; // creates the array 
+        board[boardX= 4][boardY= 5] = '@'; // places the '@' symbol near the middle there is no middle 
+        for (int i = 0; i <= board[0].length - 1; i++) {
+            for (int j = 0; j <= board[1].length - 1; j++) {
+                if (j < board[1].length - 1) {
+                    if (board[i][j] != '@') {
+                        System.out.print("☐");
+                    } else {
+                        System.out.print(board[i][j]);
+                    }
+                } else {
+                    if (board[i][j] != '@') {
+                        System.out.println("☐");
+                    } else {
+                        System.out.println(board[i][j]);
+                    }
+                }
+            }
+        }
+    }
+What is the syntax for a 3-D array?
+char[][][] board = new char [10][10][100];
+How does one change the value for the third value in a one dimensional array? [Give specific code]
+What is the syntax for a while loop?
+while (m < 10){
+            >code goes here<
+                }            
+Why use while loops in your game?
+You use while loops for things such as locking an area from intering until the player has "x" amount of "y" to enter "z" area.
+Your game should be in a method outside of main --- How will you call your game in main?
+I am going to call my game by using the name of the game's class.
+Why was it recommended that you use .toLowerCase() with your Scanner input?
+So that the scanner will recognize lowercased letters as well as the capitalized letter.
+You should use different methods when moving the protagonist and to check for intersections. How? Why
+What values will you pass across methods? how? why?
+I will pass the values of the player across methods by making the value public and static. I will do this because I woul be better than creating multiple methods of possible values when I could just carry over the value(S).

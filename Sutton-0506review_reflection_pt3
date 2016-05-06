@@ -1,0 +1,17 @@
+Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+[67] is the x coordinate and [43] is the y coordinate. Because "mymap[][]" by default arranges it so that it recongnises the first box as x coordinates and the second as y coordinates.
+
+    Write the code from line #a and explain what it does.
+	if (i=0){ System.out.print("8888"); this code will print out 8888 if i=0.
+    Write the code from line #b and explain what it does.
+	System.out.print(map[i][j]); this code will print out the map.
+    Write the code from line #c and explain what it does. Explain how its different than #e
+	System.out.print(".");
+    Write the code from line #d and explain what it does.
+	System.out.println(map[i][j]); this code will print out the map.
+    Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+    Explain the use of static.
+	Static is used to give a value that wil remain unchanged for the rest of the code.
+    Provide an example of how you could use an object with your game. Give a code example.
+
+ 

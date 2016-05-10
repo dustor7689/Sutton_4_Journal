@@ -28,7 +28,7 @@ char[][][] board = new char [10][10][100];
 How does one change the value for the third value in a one dimensional array? [Give specific code]
 What is the syntax for a while loop?
 while (m < 10){
-            >code goes here<
+            System.out.println"example words";//Example code
                 }            
 Why use while loops in your game?
 You use while loops for things such as locking an area from intering until the player has "x" amount of "y" to enter "z" area.

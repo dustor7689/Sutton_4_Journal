@@ -1,0 +1,5 @@
+Casting is simply the transformation of an object into another object. 
+Up-casting is the promotion of object(s) to a higher object level.
+int -> string 
+Down-casting is the demotion of object(s) to a lower object level.
+int <- float

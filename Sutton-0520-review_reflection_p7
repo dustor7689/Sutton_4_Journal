@@ -1,0 +1,26 @@
+
+    Given the class Ogre:
+    1. Provide an example class with class constructor
+public static class Ogre(int out, int muh, int swamp){
+	ogreout = out;
+	ogremuh = muh;
+	ogreswamp = swamp;
+}
+    2. Give an example of instantiation of an Ogre object
+Ogre(int out, int muh, int swamp);
+    3. Provide a setter for positioning
+
+public void setMyOgre()
+{     
+     this.myOgre = 42;
+}
+    4. Provide an example of using an ogre's move method
+
+    5. Provide an example array of 3 ogres.
+public static void(string[]args)
+{
+int ogre[]=new ogre[2];
+ogre[0]=1;
+ogre[1]=2;
+ogre[2]=3;
+}
